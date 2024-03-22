@@ -1,0 +1,94 @@
+
+.profile-content {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-submit {
+  font-size: 16px;
+}
+
+
+.profile {
+  background-color: #f4f4f4;
+}
+
+.profile-content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.form-group {
+  text-align: left;
+}
+
+.form-title {
+  color: #333;
+}
+
+.form-submit {
+  background-color: #007bff;
+}
+
+.form-submit:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive styling */
+
+@media screen and (max-width: 768px) {
+  .profile-content {
+      padding: 20px;
+  }
+}
+/* register.css */
+/* Add your custom styling for the registration form here */
+
+/* profile.css */
+/* Add your custom styling for the profile section here */
+
+.profile {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.profile-content {
+  background: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-submit {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.form-submit:hover {
+  background-color: #45a049;
+}
+
+/* Add any additional styling as needed */
